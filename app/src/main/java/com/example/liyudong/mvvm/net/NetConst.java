@@ -1,0 +1,1 @@
+package com.example.liyudong.mvvm.net;class NetConst {    static final String BASE_URL = "https://wanandroid.com/";    static final String GET_ALL_LIST = "wxarticle/chapters/json";}
